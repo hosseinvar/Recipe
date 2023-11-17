@@ -1,0 +1,20 @@
+import 'dart:ui';
+
+const mainColor = Color(0xFF56A190);
+const black = Color(0xFF000000);
+const textP = Color(0xFF454C52);
+const textS = Color(0xFF676E76);
+const textD = Color(0xFF9EA5AD);
+const separator = Color(0xFFE5E7EA);
+const dropDown = Color(0xFFEAEAEA);
+const background = Color(0xFFF6F6F6);
+const white = Color(0xFFFFFFFF);
+const blueText = Color(0xFF0C79B6);
+const blue = Color(0xFF308EC3);
+const orangeText = Color(0xFFE9A23B);
+const orangeChart = Color(0xFFEFBC73);
+const orangeBack = Color(0xFFFFFCF5);
+const greenText = Color(0xFF53B483);
+const greenBack = Color(0xFFF6FEF9);
+const red = Color(0xFFF34141);
+const redBack = Color(0xFFFFFBFA);
